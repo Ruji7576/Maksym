@@ -5,7 +5,7 @@ I am currently studying to become a backend developer, focusing on Java and DevO
 
 ## Skills
 - **Programming Languages:** Java
-- **Technologies:** DevOps tools (Docker, Kubernetes, etc.)
+- **Technologies:** 
 - **Other Skills:** Computer assembly and configuration
 
 ## Education
