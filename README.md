@@ -1,3 +1,4 @@
+![Persona 5 Style GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBuMDB4MWhzbHJ0MzM2ejBxbTNhMHEwd2o0eGg2eTR6M3VzMmNtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13S0cgc6oDYqPK/giphy.gif)
 # Hi, I'm Maksym 👋
 
 ## About Me
